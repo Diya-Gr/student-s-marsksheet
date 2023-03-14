@@ -1,6 +1,5 @@
 #include<stdio.h>
 int main(){
   printf("you don't understand anything  untill you don't learn it more then  in one way..");
-  printf("hello");
   return 0;
 }
